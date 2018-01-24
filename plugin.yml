@@ -1,0 +1,7 @@
+name: xMinigamesGUI
+main: br.com.smileyy.MG
+version: 1.0
+author: Smileyy
+
+commnds:
+  gui:
