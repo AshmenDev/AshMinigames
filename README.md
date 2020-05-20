@@ -1,0 +1,2 @@
+# AshMinigames
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/116eb5528cf0449a928382f57a1910cd)](https://app.codacy.com/manual/AshmenDev/AshMinigames?utm_source=github.com&utm_medium=referral&utm_content=AshmenDev/AshMinigames&utm_campaign=Badge_Grade_Dashboard)
